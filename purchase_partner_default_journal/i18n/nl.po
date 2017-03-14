@@ -23,7 +23,7 @@ msgstr "Factuur"
 #. module: purchase_partner_default_journal
 #: model:ir.model,name:purchase_partner_default_journal.model_res_partner
 msgid "Partner"
-msgstr "Partner"
+msgstr "Relatie"
 
 #. module: purchase_partner_default_journal
 #: model:ir.model,name:purchase_partner_default_journal.model_purchase_order
